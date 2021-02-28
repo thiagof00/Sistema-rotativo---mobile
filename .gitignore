@@ -63,4 +63,3 @@ buck-out/
 /ios/Pods/
 android/app/src/main/AndroidManifest.xml
 android/
-android/app/src/main/AndroidManifest.xml
